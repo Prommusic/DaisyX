@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>❤️ DaisyX 2.0  ❤️</b></h1>
 
-## Unmaintained. The new repo of @DaisyXbot is private. 
+## Unmaintained. The new repo of @OFFICIAL_KILLER_XD is private. 
 (It is no longer based on this source code. The completely rewritten bot available now on telegram)
 
 ## JUST ANOTHER MODIFIED UNMAINTAINED SOURCE CODE
@@ -31,10 +31,10 @@
 > ⭐️ Thanks to everyone who starred Daisy, That is the greatest pleasure we have !
 
 ### https://daisyproject.studio
-## Avaiilable a latest version as  [@DaisyXBot](https://t.me/daisyxbot) on Telegram [CLOSED SOURCE]
+## Avaiilable a latest version as[@OFFICIAL_OP_XD_BOT](https://t.me/XO_XPAM) on Telegram [CLOSED SOURCE]
 
 # 🧙‍♀️ Deploy Guide
-Complete guide on deploying @DaisyXBot's clone on Heroku.
+Complete guide on deploying @OFFICIAL_OP_XD_BOT  's clone on Heroku.
 
 [![Tutorial](https://yt-embed.herokuapp.com/embed?v=yar61k_hEHQ)](https://www.youtube.com/watch?v=yar61k_hEHQ)
 
@@ -49,9 +49,9 @@ Complete guide on deploying @DaisyXBot's clone on Heroku.
 <a href="https://www.youtube.com/watch?v=yar61k_hEHQ"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
 # ❤️ Support
-<a href="https://t.me/DaisySupport_Official"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/XO_XPAM"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
-<a href="https://t.me/DaisyXupdates"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/KHUDA_OR_MOHABBATT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ### Self-hosting (For Devs) ⚔
 ```sh
